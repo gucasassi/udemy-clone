@@ -1,7 +1,9 @@
 const Home = () => {
   return (
     <>
-      <h1 className="jumbotron text-center bg-primary">Hello World!!</h1>
+      <h1 className="jumbotron text-center bg-primary">
+        Online Education Marketplace
+      </h1>
       <p>from nextjs...</p>
     </>
   );
