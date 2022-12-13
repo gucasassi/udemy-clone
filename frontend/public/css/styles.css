@@ -1,0 +1,6 @@
+.jumbotron {
+  align-items: center;
+  padding: 2.5rem;
+  color: #fff;
+  background-image: linear-gradient(to right, #007bff, #000);
+}
